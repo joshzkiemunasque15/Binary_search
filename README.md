@@ -43,10 +43,3 @@ arr[4] == 50 -> found!
 
 Target found.
 Index: 4
-```
-
-## AI Disclosure
-Claude (Anthropic) was used to help structure the recursive method's supporting
-code (input handling, sorting, trace print statements), build the recursion
-trace table, and write the explanation of the base cases for this laboratory
-activity. All code was compiled and run to verify the outputs shown above.
